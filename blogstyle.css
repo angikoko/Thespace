@@ -1,14 +1,17 @@
-﻿body {
+﻿body
+{
     background-color: white;
     font: 20px Arial, sans-serif;
+    background-image: space-stars-no-copyright.jpg;
+;
 }
-
 #BLOG {
     position: absolute;
     top: 8px;
     right: 16px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
 
 #LRN {
@@ -17,6 +20,7 @@
     right: 80px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
 
 #INDEX {
@@ -25,4 +29,5 @@
     right: 130px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
