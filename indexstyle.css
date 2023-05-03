@@ -11,6 +11,7 @@ body
     right: 16px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
 
 #LRN {
@@ -19,6 +20,7 @@ body
     right: 80px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
 
 #INDEX {
@@ -27,5 +29,6 @@ body
     right: 130px;
     border-style: solid;
     text-transform: capitalize;
+    text-decoration: underline;
 }
 
