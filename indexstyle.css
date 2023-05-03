@@ -5,33 +5,8 @@ body
     background-image: space-stars-no-copyright.jpg;
 ;
 }
-#BLOG {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-    border-style: solid;
-    outline-width: 3px;
-    text-transform: capitalize;
-    text-decoration: underline;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
-
-#LRN {
-    position: absolute;
-    top: 8px;
-    right: 80px;
-    border-style: solid;
-    outline-width: 3px;
-    text-transform: capitalize;
-    text-decoration: underline;
-}
-
-#INDEX {
-    position: absolute;
-    top: 8px;
-    right: 130px;
-    border-style: solid;
-    outline-width: 3px;
-    text-transform: capitalize;
-    text-decoration: underline;
-}
-
