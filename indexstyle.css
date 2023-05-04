@@ -9,11 +9,9 @@ ul {
   margin: 0;
   padding: 0;
   display: inline;
-  border-right: 1px solid #bbb;
-   right: 100px;
-   bottom: 10px;
-   background-color: black;
-    
+  right: 100px;
+  bottom: 10px;
+  background-color: #333;  
 }
 li {
   float: left;
