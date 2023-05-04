@@ -8,23 +8,22 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333; 
-  right: 100px;
-  bottom: 10px;  
+  overflow: hidden;
+  background-color: #333;
 }
+
 li {
-  float: left;
+   float: left;
 }
-li a{
-      display: block;
-      padding: 14px 16px;
-      display: block;
-      color: white;
-      text-decoration: none;
+
+li a {
+  display: blok;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
-li img {
-    left: 20px;
-}
-p {
-    bottom: 10px;
+
+li a:hover {
+  background-color: #111;
 }
