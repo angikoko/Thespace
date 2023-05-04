@@ -12,7 +12,7 @@ ul {
   border-right: 1px solid #bbb;
    right: 100px;
    bottom: 10px;
-   overflow: hidden;
+   background-color: black;
     
 }
 li {
@@ -22,9 +22,8 @@ li a{
       display: block;
       padding: 14px 16px;
       display: block;
-      background-color: black;
       color: white;
-      
+      text-decoration: none;
 }
 li img {
     left: 20px;
