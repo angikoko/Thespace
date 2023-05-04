@@ -10,8 +10,7 @@ ul {
   padding: 0;
   display: inline;
   border-right: 1px solid #bbb;
-  background-image: url("space-stars-no-copyright.jpg");
-   right: 20px;
+   right: 100px;
 }
 li {
   float: left;
@@ -19,5 +18,9 @@ li {
 li a{
       padding: 14px 16px;
       display: block;
+      background-image: url("space-stars-no-copyright.jpg");
       
+}
+li img {
+    left: 20px;
 }
