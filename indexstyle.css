@@ -11,8 +11,8 @@ ul {
   display: inline;
   border-right: 1px solid #bbb;
    right: 100px;
-    botto: 10px;
-    overflow: hidden;
+   bottom: 10px;
+   overflow: hidden;
     
 }
 li {
