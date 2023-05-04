@@ -7,12 +7,16 @@ body
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 14px 16px;
+  padding: 0;
   display: inline;
   border-right: 1px solid #bbb;
   background-image: url("space-stars-no-copyright.jpg");
 }
 li {
   float: left;
-  padding: 14px 16px
+}
+li a{
+      padding: 14px 16px;
+      display: block;
+      
 }
