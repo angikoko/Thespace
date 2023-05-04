@@ -11,6 +11,7 @@ ul {
   display: inline;
   border-right: 1px solid #bbb;
   background-image: url("space-stars-no-copyright.jpg");
+   right: 20px;
 }
 li {
   float: left;
