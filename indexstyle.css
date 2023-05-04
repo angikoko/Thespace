@@ -19,6 +19,7 @@ li {
   float: left;
 }
 li a{
+      display: block;
       padding: 14px 16px;
       display: block;
       background-image: url("space-stars-no-copyright.jpg");
