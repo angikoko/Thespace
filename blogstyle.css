@@ -5,31 +5,34 @@
     background-image: space-stars-no-copyright.jpg;
 ;
 }
+body
+{
+    background-color: white;
+    font: 20px Arial, sans-serif;
+;
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: inline;
-  border-right: 1px solid #bbb;
-   right: 100px;
-   bottom: 10px;
-   overflow: hidden;
-    
+  overflow: hidden;
+  background-color: #333;
+  background-image: url("space-stars-no-copyright.jpg");
 }
+
 li {
-  float: left;
+   float: left;
 }
-li a{
-      display: block;
-      padding: 14px 16px;
-      display: block;
-      background-image: url("space-stars-no-copyright.jpg");
-      color: white;
-      
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  bottom: 10px;
 }
-li img {
-    left: 20px;
-}
-p {
-    bottom: 10px;
+
+li a:hover {
+  background-color: #111;
 }
