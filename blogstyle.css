@@ -38,15 +38,19 @@ li a {
 li a:hover {
   background-color: #111;
 }
-.colonna di sinistra {
+.colonnasinistra {
     float: left;
     width: 80%;
+    background: white;
+    padding: 20px;
 }
 .titolo {
     font-size: 120px;
     text-align: center;
     display: block;
     background-image: url("starry-milky-way-galaxy.jpg");
+    background: white;
+    padding: 20px
     
 }
 .h4 {
