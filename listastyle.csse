@@ -20,11 +20,11 @@ body
   background-image: url("space-stars-no-copyright.jpg");
 }
 
-#al li {
+#al {
    float: left;
 }
 
-#al li a {
+#al a {
   display: block;
   color: white;
   text-align: center;
@@ -33,7 +33,7 @@ body
   bottom: 10px;
 }
 
-#al li a:hover {
+#al a:hover {
   background-color: #111;
 }
 
