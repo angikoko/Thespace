@@ -37,7 +37,7 @@ li a:hover {
   background-color: #111;
 }
 
-.bl{
+#bl{
   height: 300%;
   width: 200px;
   position: fixed;
@@ -54,7 +54,7 @@ li a:hover {
     
 }
 
-.bl a{
+#bl a{
   display: block;
   color: white;
   padding: 14px 16px;
