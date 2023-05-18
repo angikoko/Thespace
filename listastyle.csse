@@ -49,7 +49,7 @@ body
 }
 
 .contenuto {
-    margin-right: 400px;
+    margin-left: 400px;
     
     
 }
