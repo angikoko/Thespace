@@ -48,18 +48,10 @@ body
   overflow-x: hidden;
 }
 
-.p {
-    margin-left: 40px;
-    
-    
-}
 
 #bl a{
   display: block;
   color: white;
   padding: 14px 16px;
   text-decoration: none;
-}
-* {
-  box-sizing: border-box;
 }
