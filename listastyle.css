@@ -11,7 +11,7 @@ body
     font: 20px Arial, sans-serif;
 ;
 }
-#al {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -20,19 +20,20 @@ body
   background-image: url("space-stars-no-copyright.jpg");
 }
 
-#al {
+li {
    float: left;
 }
 
-#al a {
+li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  bottom: 10px;
 }
 
-#al a:hover {
+li a:hover {
   background-color: #111;
 }
 #bruh{
