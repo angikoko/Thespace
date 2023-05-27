@@ -38,20 +38,20 @@ body
 }
 
 #bl{
-  height: 300%;
-  width: 200px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
   position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
+  height: 100%;
+  overflow: auto;
 }
 
 
 #bl a{
   display: block;
-  color: white;
-  padding: 14px 16px;
+  color: #000;
+  padding: 8px 16px;
   text-decoration: none;
 }
