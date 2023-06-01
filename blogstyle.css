@@ -1,8 +1,9 @@
 
-body{
+body
+{
     background-color: grey;
     font: 20px Arial, sans-serif;
-    padding: 25px;
+;
 }
 ul {
   list-style-type: none;
