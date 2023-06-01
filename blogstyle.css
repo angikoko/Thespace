@@ -1,17 +1,11 @@
-﻿body
-{
-    background-color: white;
-    font: 20px Arial, sans-serif;
-    background-image: space-stars-no-copyright.jpg;
-    background: grey;
-    padding: 25px;
+
 ;
 }
 body
 {
-    background-color: white;
+    background-color: grey;
     font: 20px Arial, sans-serif;
-;
+    padding: 25px;
 }
 ul {
   list-style-type: none;
