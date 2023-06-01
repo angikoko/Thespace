@@ -32,12 +32,12 @@ li a:hover {
 }
 #colonnasinistra {
     float: left;
-    width: 80%;
+    width: 60%;
     background: white;
     padding: 20px;
 }
 #titolo {
-    font-size: 120px;
+    font-size: 60px;
     text-align: center;
     display: block;
     background-image: url("starry-milky-way-galaxy.jpg");
