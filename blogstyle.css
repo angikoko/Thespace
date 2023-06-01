@@ -30,13 +30,13 @@ li a {
 li a:hover {
   background-color: grey;
 }
-.colonnasinistra {
+#colonnasinistra {
     float: left;
     width: 80%;
     background: white;
     padding: 20px;
 }
-.titolo {
+#titolo {
     font-size: 120px;
     text-align: center;
     display: block;
