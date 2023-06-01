@@ -44,6 +44,8 @@ li a:hover {
   position: fixed;
   height: 10%;
   overflow: auto;
+  right: 0px;
+  position: absolute;
 }
 
 
@@ -52,8 +54,6 @@ li a:hover {
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
-  right: 0px;
-  position: absolute;
 }
 
 #bruh a:hover {
