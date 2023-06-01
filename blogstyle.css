@@ -33,7 +33,7 @@ li a:hover {
 #colonnasinistra {
     width: 60%;
     background: white;
-    text-align: center;
+    padding: 50%;
 }
 #titolo {
     font-size: 60px;
