@@ -29,3 +29,6 @@ li a {
 li a:hover {
   background-color: grey;
 }
+p {
+    font-size: 100px
+}
