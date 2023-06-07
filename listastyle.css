@@ -17,6 +17,7 @@ ul {
   overflow: hidden;
   background-color: #333;
   background-image: url("space-stars-no-copyright.jpg");
+  height: 80px;
 }
 
 li {
