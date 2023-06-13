@@ -10,6 +10,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-image: url("space-stars-no-copyright.jpg");
+  background-repeat: no-repeat;
 }
 
 li {
