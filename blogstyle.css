@@ -31,9 +31,10 @@ li a:hover {
   background-color: grey;
 }
 #colonnasinistra {
-    width: 60%;
+    width: 50%;
     background: white;
-    padding: 50%;
+    padding: 10px;
+    margin: auto;
 }
 #titolo {
     font-size: 60px;
