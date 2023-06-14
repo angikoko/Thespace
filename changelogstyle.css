@@ -11,8 +11,13 @@ ul {
   overflow: hidden;
   background-color: #333;
   background-image: url("space-stars-no-copyright.jpg");
+  width: 0%;
 }
+ul:hover{
 
+width: 5%;
+    
+}
 li {
    float: left;
 }
