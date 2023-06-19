@@ -58,7 +58,7 @@ li a:hover {
 
 #photos {
     float: left;
-    aspect-ratio: 3/2;
+    width: 15%;
 }
 
 
