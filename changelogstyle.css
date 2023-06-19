@@ -13,11 +13,6 @@ ul {
   background-image: url("space-stars-no-copyright.jpg");
   width: 0%;
 }
-ul:hover{
-
-width: 100%;
-    
-}
 li {
    float: left;
 }
