@@ -59,10 +59,10 @@ li a:hover {
 
 #photos {
     float: left;
+    aspect-ratio: 3/2;
 }
 
 
 p {
     width: 90%;
-    aspect-ratio: 3/2;
 }
