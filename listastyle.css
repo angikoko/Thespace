@@ -57,3 +57,8 @@ li a:hover {
 .p {
   width: 90%;
 }
+
+
+img {
+    float: left
+}
