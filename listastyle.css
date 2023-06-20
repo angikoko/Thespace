@@ -4,12 +4,13 @@ body
     font: 20px Arial, sans-serif;
 ;
 }
-ul {
+#barra di navigazione {
 list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  background-image: ("space-star-no-cpoyright");
   
 }
 
