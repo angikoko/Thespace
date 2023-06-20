@@ -10,8 +10,7 @@ list-style-type: none;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  background-image: ("space-star-no-cpoyright");
-  
+  background-image: url("space-stars-no-copyright.jpg");
 }
 
 li {
