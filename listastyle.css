@@ -4,7 +4,7 @@ body
     font: 20px Arial, sans-serif;
 ;
 }
-#barra di navigazione {
+ul {
 list-style-type: none;
   margin: 0;
   padding: 0;
